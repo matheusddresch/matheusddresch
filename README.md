@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @matheusddresch
+- 👀 I’m interested in fullstack and learning more about tech
+- 🌱 I’m currently learning about front-end, but i love back-end S2!
+- 💞️ I’m looking to collaborate on apps, web-design and more.
+- 📫 my e-mail is matheusddresch@hotmail.com , let's share some knowledge!
